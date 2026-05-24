@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'; upgrade-insecure-requests"
+    />
+    <meta name="referrer" content="no-referrer" />
+    <meta
+      name="description"
+      content="Convert ChatGPT session and Codex-compatible credential JSON locally in your browser."
+    />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <title>Session Bridge | Local credential converter</title>
+  </head>
+  <body>
+    <a class="skip-link" href="#workspace" data-global-i18n="skip">Skip to workspace</a>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

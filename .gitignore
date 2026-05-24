@@ -1,0 +1,18 @@
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+.vite/
+.env*
+
+# Sensitive converter material must never enter version control.
+*.session.json
+session*.json
+tokens*.json
+auth*.json
+credentials*.json
+exports/
+
+# Local review artifacts are intentionally not published.
+.local-review/
