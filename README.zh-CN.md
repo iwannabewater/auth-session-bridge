@@ -4,7 +4,7 @@
 
 这是一个仅在浏览器本地运行的凭证格式转换工具，可将 ChatGPT Session 或 Codex 兼容凭证 JSON 转换为 CPA / CLIProxyAPI、sub2api、Cockpit Tools、9router、AxonHub 与 Codex-Manager 的导入文档。
 
-[打开部署页面](https://iwannabewater.github.io/GPTSession2CPAandSub2API/)
+[打开部署页面](https://whynotsleep.cc/GPTSession2CPAandSub2API/)
 
 ## 安全边界
 

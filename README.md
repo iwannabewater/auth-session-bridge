@@ -4,7 +4,7 @@
 
 A local-only browser tool that converts ChatGPT session or Codex-compatible credential JSON into import documents for CPA / CLIProxyAPI, sub2api, Cockpit Tools, 9router, AxonHub, and Codex-Manager.
 
-[Open the deployed application](https://iwannabewater.github.io/GPTSession2CPAandSub2API/)
+[Open the deployed application](https://whynotsleep.cc/GPTSession2CPAandSub2API/)
 
 ## Security first
 
